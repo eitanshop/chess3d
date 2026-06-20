@@ -1,0 +1,6 @@
+{
+  "name": "Gemini 3D Chess",
+  "description": "משחק שחמט תלת-ממדי מתקדם המופעל על ידי בינה מלאכותית של גוגל.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
